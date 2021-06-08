@@ -29,5 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <br>
 Imagem do jogo da velha
 <br>
+![Captura de tela 2021-06-08 115621](https://user-images.githubusercontent.com/22208015/121209244-12e78100-c851-11eb-8228-693bdc5ab84c.jpg)
 
 
